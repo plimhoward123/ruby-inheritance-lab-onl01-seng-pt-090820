@@ -7,5 +7,4 @@ class Student < User
   def learn(val)
     @knowledge << val
   end
-
 end
